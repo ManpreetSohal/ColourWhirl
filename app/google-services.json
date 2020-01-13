@@ -1,0 +1,52 @@
+{
+  "project_info": {
+    "project_number": "453647575819",
+    "firebase_url": "https://colour-whirl-264203.firebaseio.com",
+    "project_id": "colour-whirl-264203",
+    "storage_bucket": "colour-whirl-264203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453647575819:android:1d89ff57bffc7c6c3d900e",
+        "android_client_info": {
+          "package_name": "colourwhirl.manpreet.com.colourwhirl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453647575819-acdkh4boigv6nt3onioiqjjstvho0s30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "colourwhirl.manpreet.com.colourwhirl",
+            "certificate_hash": "1553c8409ad256d39bfc8d69f2c12da09857a860"
+          }
+        },
+        {
+          "client_id": "453647575819-f9csprs30r40mj8ds5j0uv9dtcpfkhps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "colourwhirl.manpreet.com.colourwhirl",
+            "certificate_hash": "06ff70de5ffbc0acff5f4bffb8214a16d6f5544d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFXZxxrCymMUyeX3DWh865rJMiwu6QKZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453647575819-7f3b3r5q1nferf5au7cht6e5t0gl2ta9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

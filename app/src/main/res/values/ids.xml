@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="playBtn" />
+    <item type="id" name="leaderboardBtn" />
+    <item type="id" name="signInBtn" />
+    <item type="id" name="signOutBtn" />
+=</resources>
